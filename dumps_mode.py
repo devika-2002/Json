@@ -2,7 +2,7 @@ import json
 data={'name':'devika','class':True,'age':'89'}
 a=json.dumps(data)
 print(a)
-print(type(a))
+# print(type(a))
 
 
 
